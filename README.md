@@ -1,10 +1,1 @@
-#Open For Science 
-
-I believe the scientific endeavor is best served by transparent and reproducible work. It is my goal to participate in open science and share not only outcomes but process.
-
-My notebook documents thoughts, analyses, knowledge gains, roadblocks, detours, and products. My goal is to facilitate scientific advancement through the open sharing of data and analytical approaches. As with science, this notebook is a work in process, hopefully advancing with every iteration. 
-
-The notebook is platformed on GitHub and is directly linked to GitHub repositories that contain further details than will be presented in notebook posts. The notebook and repositories are dynamic real-time documents.
-
-
-* Credit: This notebook is built with Jekyll Now forked from Barry Clark https://github.com/barryclark/jekyll-now and improved with edited material from a variety of online lab notebook layouts. Thanks to all. 
+Dr. Tal Luzzatto Knaan is the head of the Functional Metabolomics lab. She earned her PhD in Biochemistry from the Hebrew University of Jerusalem. As a Vaadia-BARD postdoctoral fellow, she joined the lab of Prof. Pieter C. Dorrestein at the Skaggs School of Pharmacy and Pharmacological Sciences at the University of California, San Diego (UCSD). Her research focused on developing metabolomics-based approach to study microbial chemical communication, and exploring the marine chemical diversity for potential drug discovery. She did her second fellowship with Dr. Daniel Sher at the department of Marine Biology at the University of Haifa, studying the chemical interactions of marine picoplankton. In 2019, she started her own lab combining cutting-edge, multidisciplinary approach to explore the biological role, regulation, diversity and distribution of natural products in microbes and algae, and their potential biotechnological and medicinal applications. Tal is the head of the emerging Interdisciplinary Center for Metabolomics and Natural Products at the University of Haifa and active in Women in STEMM Leadership initiatives.
